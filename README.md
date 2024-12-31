@@ -3,8 +3,8 @@ Gifify is a dynamic web application built using HTML, CSS, and JavaScript that a
 
 Key features of Gifify:
 
-**Instant Search:** Quickly find GIFs based on keywords.
-**Responsive Design:** Seamlessly adapts to different screen sizes.
+**Instant Search:** Quickly find GIFs based on keywords./n
+**Responsive Design:** Seamlessly adapts to different screen sizes./n
 **Shareable Links:** Easily copy and share GIFs on social media.
 **Smooth User Experience:** Fast load times and intuitive navigation.
 Built with a clean and minimalistic design, Gifify offers a sleek way to discover and share GIFs on the web.
