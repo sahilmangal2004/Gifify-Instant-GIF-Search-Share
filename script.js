@@ -8,7 +8,7 @@ let generateGif = () => {
 
     // Get search value
     let q = document.getElementById("search-box").value.trim() || "trending"; // Default to "trending" if empty
-    let gifCount = 10;
+    let gifCount = 12;
 
     // Define the API URL
     const apiKey = "MhV6czJLQboS4hqMqCBCrxcd3w2ssFa4"; // Replace with your Giphy API key
